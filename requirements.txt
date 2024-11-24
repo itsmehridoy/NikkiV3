@@ -54,4 +54,4 @@ gpytranslate==1.5.1
 cloudscraper==1.2.70
 carbonnow
 pretty_errors
-git+https://github.com/aio-libs/aiohttp
+aiohttp==3.7.3
