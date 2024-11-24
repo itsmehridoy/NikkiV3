@@ -1,6 +1,6 @@
 abg==2.5.3
 aiofiles
-aiohttp=3.11.7
+aiohttp==3.11.7
 httpx[http2]>=0.18.1,<1.0.0
 alphabet_detector==0.0.7
 beautifulsoup4==4.11.1
